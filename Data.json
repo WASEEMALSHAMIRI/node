@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "FirstName": "ahmed",
+        "LastName": "qahtani",
+        "city": "jeddah",
+        "age": "24"
+    },
+    {
+        "id": 2,
+        "FirstName": "ali",
+        "LastName": "shamiri",
+        "city": "jeddah",
+        "age": "66"
+    },
+    {
+        "id": "3",
+        "FirstName": "mohammed",
+        "LastName": "alzahrani",
+        "city": "adan",
+        "age": "30"
+    },
+    {
+        "id": "4",
+        "FirstName": "omar",
+        "LastName": "thaqafi",
+        "city": "taiz",
+        "age": "20"
+    }
+]
